@@ -8,7 +8,7 @@ import SectionHeading from '../ui/SectionHeading'
 const ASTEROIDS = [
   { key: 'Frontend',       color: '#f5d98a', orbitR: 160, dur: 22, start: 10,  size: 112 },
   { key: 'Backend',        color: '#c4b5fd', orbitR: 220, dur: 32, start: 100, size: 100 },
-  { key: 'Infrastructure', color: '#86efac', orbitR: 140, dur: 17, start: 210, size: 92  },
+  { key: 'Languages', color: '#86efac', orbitR: 140, dur: 17, start: 210, size: 92  },
   { key: 'Tooling',        color: '#fbcfe8', orbitR: 195, dur: 26, start: 290, size: 96  },
 ]
 

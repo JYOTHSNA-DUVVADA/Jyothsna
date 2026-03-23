@@ -28,8 +28,8 @@ export const skills = [
     items: ['Node.js', 'Python', 'FastAPI' , "REST API"],
   },
   {
-    group: 'Infrastructure',
-    items: ['AWS', 'Docker', 'Kubernetes', 'Terraform', 'GitHub Actions', 'Cloudflare'],
+    group: 'Languages',
+    items: ['C', 'Java', 'Python'],
   },
   {
     group: 'Tooling',
