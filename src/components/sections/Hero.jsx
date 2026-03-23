@@ -120,7 +120,7 @@ export default function Hero() {
               {[
                 { label: 'React', color: '#61dafb', pos: 'top-0 right-[-30px]' },
                 { label: 'AI/ML', color: '#00ff88', pos: 'bottom-8 left-[-40px]' },
-                { label: 'Cloud', color: '#ff9500', pos: 'bottom-0 right-[-20px]' },
+                { label: 'DSA', color: '#ff9500', pos: 'bottom-0 right-[-20px]' },
               ].map(({ label, color, pos }) => (
                 <motion.div
                   key={label}
